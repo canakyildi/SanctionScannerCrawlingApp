@@ -1,0 +1,16 @@
+Harcanan Efor
+1.Analiz 
+Efor toplamı : 3 Saat
+Yapılan iş : .Net Core Konsol uygulaması yapılmaya karar verildi. Ip banlaması sıklığını tespit etmek için Http web request atan basit yapı oluşturuldu ve bilere ban yenildi.
+Proxy ve User Agent kullanımları araştırıldı. 
+
+2.Kodlama
+Efor Toplamı : 5 Saat
+Yapılan iş : Visual Studio 2022 kullanılarak .Net Core Konsol uygulaması altyapısı hazırlandı. Güncel teknoloji için GlobalUsing yapısı kuruldu. Ip banlaması için User Agent,
+Veri çekmek için HtmlNode kullanılmaya karar verildi. Olası exceptionlar handle edildi. Ard arda atılan istek sayısı 60'a kadar çıkarıldı.
+
+3.Test
+Efor Toplamı : 1 Saat
+Yapılan İş : Manuel test ile gelen ilan detaylarının içeriği kontrol edildi. Veri dönüşümlerinde hatalar ayıklandı. Gerekli yorum satırları eklendi. 
+
+Toplam Efor : 1 Gün
