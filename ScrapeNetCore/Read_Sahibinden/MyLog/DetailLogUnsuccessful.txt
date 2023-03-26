@@ -1,0 +1,5 @@
+
+Href:/param-guvende/bireysel?widget_type=param-guvende-bireysel&widget_source=d-v-p,Success : False, Code:OK
+Href:/alisveris-bilgilendirmeler?widget_type=als-bilgi&widget_source=d-v-kazanc,Success : False, Code:OK
+Href:/doping-tanitim/#doping-3,Success : False, Code:OK
+Href:/ilan/is-makineleri-sanayi-sanayi-tasima-istifleme-meka-istif-makinalari-held-3-ton-forklift-triplex-xinchai-1082399005/detay,Success : False, Code:OK

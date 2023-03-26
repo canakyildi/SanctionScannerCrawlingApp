@@ -1,0 +1,12 @@
+C:\Users\c1aky\source\repos\ScrapeNetCore\Read_Sahibinden.Service\bin\Debug\net6.0\Read_Sahibinden.Service.deps.json
+C:\Users\c1aky\source\repos\ScrapeNetCore\Read_Sahibinden.Service\bin\Debug\net6.0\Read_Sahibinden.Service.dll
+C:\Users\c1aky\source\repos\ScrapeNetCore\Read_Sahibinden.Service\bin\Debug\net6.0\Read_Sahibinden.Service.pdb
+C:\Users\c1aky\source\repos\ScrapeNetCore\Read_Sahibinden.Service\obj\Debug\net6.0\Read_Sahibinden.Service.csproj.AssemblyReference.cache
+C:\Users\c1aky\source\repos\ScrapeNetCore\Read_Sahibinden.Service\obj\Debug\net6.0\Read_Sahibinden.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c1aky\source\repos\ScrapeNetCore\Read_Sahibinden.Service\obj\Debug\net6.0\Read_Sahibinden.Service.AssemblyInfoInputs.cache
+C:\Users\c1aky\source\repos\ScrapeNetCore\Read_Sahibinden.Service\obj\Debug\net6.0\Read_Sahibinden.Service.AssemblyInfo.cs
+C:\Users\c1aky\source\repos\ScrapeNetCore\Read_Sahibinden.Service\obj\Debug\net6.0\Read_Sahibinden.Service.csproj.CoreCompileInputs.cache
+C:\Users\c1aky\source\repos\ScrapeNetCore\Read_Sahibinden.Service\obj\Debug\net6.0\Read_Sahibinden.Service.dll
+C:\Users\c1aky\source\repos\ScrapeNetCore\Read_Sahibinden.Service\obj\Debug\net6.0\refint\Read_Sahibinden.Service.dll
+C:\Users\c1aky\source\repos\ScrapeNetCore\Read_Sahibinden.Service\obj\Debug\net6.0\Read_Sahibinden.Service.pdb
+C:\Users\c1aky\source\repos\ScrapeNetCore\Read_Sahibinden.Service\obj\Debug\net6.0\ref\Read_Sahibinden.Service.dll

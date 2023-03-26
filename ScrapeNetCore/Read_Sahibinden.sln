@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Read_Sahibinden.Console", "Read_Sahibinden\Read_Sahibinden.Console.csproj", "{1FEF3461-EB5C-40F7-8942-596FD5049C91}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Read_Sahibinden.Service", "Read_Sahibinden.Service\Read_Sahibinden.Service.csproj", "{6D3F0037-90E7-425A-993F-234A22545725}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FEF3461-EB5C-40F7-8942-596FD5049C91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FEF3461-EB5C-40F7-8942-596FD5049C91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FEF3461-EB5C-40F7-8942-596FD5049C91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FEF3461-EB5C-40F7-8942-596FD5049C91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D3F0037-90E7-425A-993F-234A22545725}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D3F0037-90E7-425A-993F-234A22545725}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D3F0037-90E7-425A-993F-234A22545725}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D3F0037-90E7-425A-993F-234A22545725}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {936F909F-C004-4B00-9C78-C45B50844D13}
+	EndGlobalSection
+EndGlobal
